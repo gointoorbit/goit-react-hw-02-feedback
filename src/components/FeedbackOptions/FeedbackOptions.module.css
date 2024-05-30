@@ -1,0 +1,14 @@
+.buttonContainer {
+  margin-block: 15px;
+  display: flex;
+  gap: 10px;
+}
+
+.statButton {
+  background-color: #e4d7d7;
+  border: none;
+  border-radius: 10%;
+  box-shadow: 8px 10px 15px -14px rgba(21, 32, 40, 1);
+  padding: 10px;
+  font-size: 15px;
+}
